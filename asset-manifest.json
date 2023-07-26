@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.577d7127.chunk.css",
+    "main.js": "/alx-react/static/js/main.f272da5f.chunk.js",
+    "main.js.map": "/alx-react/static/js/main.f272da5f.chunk.js.map",
+    "runtime-main.js": "/alx-react/static/js/runtime-main.5d85f1e4.js",
+    "runtime-main.js.map": "/alx-react/static/js/runtime-main.5d85f1e4.js.map",
+    "static/js/2.da7318fe.chunk.js": "/alx-react/static/js/2.da7318fe.chunk.js",
+    "static/js/2.da7318fe.chunk.js.map": "/alx-react/static/js/2.da7318fe.chunk.js.map",
+    "static/js/3.62ed8533.chunk.js": "/alx-react/static/js/3.62ed8533.chunk.js",
+    "static/js/3.62ed8533.chunk.js.map": "/alx-react/static/js/3.62ed8533.chunk.js.map",
+    "index.html": "/alx-react/index.html",
+    "static/css/main.577d7127.chunk.css.map": "/alx-react/static/css/main.577d7127.chunk.css.map",
+    "static/js/2.da7318fe.chunk.js.LICENSE.txt": "/alx-react/static/js/2.da7318fe.chunk.js.LICENSE.txt",
+    "static/media/holberton-logo.24bab5d6.jpg": "/alx-react/static/media/holberton-logo.24bab5d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d85f1e4.js",
+    "static/js/2.da7318fe.chunk.js",
+    "static/css/main.577d7127.chunk.css",
+    "static/js/main.f272da5f.chunk.js"
+  ]
+}
